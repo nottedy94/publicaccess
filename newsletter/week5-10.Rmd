@@ -9,13 +9,10 @@ date: "Week 5-10 // Feb 1st - Mar 12th"
     number_sections: false
     toc: no
     always_allow_html: true
-    
-    
-bibliography:
-- R-packages.bib
-- aRticles.bib
-
-csl: ecology.csl
+      bibliography:
+      - R-packages.bib
+      - aRticles.bib
+      csl: ecology.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -23,9 +20,9 @@ csl: ecology.csl
 knitr::opts_chunk$set(echo=FALSE,
                       message=FALSE,
                       warning=FALSE,
-                      file("Document.dcf"
+                      file("news.bib"
                            ),
-                      encoding=("UTF-8.14"
+                      encoding=("UTF-8"
                                 )
                       )
 
