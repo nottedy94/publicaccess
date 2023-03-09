@@ -1,5 +1,5 @@
 ---
-title: '<*/*> improbable'
+title: 'February was a rollercoaster...'
 author: "J:PTED.C"
 subtitle: "~or~ Unsolicited Advice from..."
 author: ":pTED for bits of 2023..."
@@ -26,44 +26,34 @@ knitr::opts_chunk$set(echo=FALSE,
                       warning=FALSE,
                       file("Document.dcf"
                            ),
-                      encoding=("UTF-7.0940"
+                      encoding=("UTF-8.14"
                                 )
                       )
 
 library(papaja)
 library(sparklyr)
 
-papaja::r_refs(file="42433.14"):options(knitr.kable.NA="")
+#papaja::r_refs(file="newsletter.bib"):options(knitr.kable.NA="0")
+# ^^yaml issue?
 
 
 
 ```
 
-#boop <0>
+#boop \<0\>
 
 It's all a mobius strip. You end at the beginning. Do get it yet? Tie your own rope.
 
-This month; make friends with the voice in your head. This one is about left brain/right brain. If you can differentiate between where you're thoughts are coming from, you can see more of the connections between your thought processes. It's all a game and the winner is comedy. That's my definition of "altruism". 
+This month; make friends with the voice in your head. This one is about left brain/right brain. If you can differentiate between where you're thoughts are coming from, you can see more of the connections between your thought processes. It's all a game and the winner is comedy. That's my definition of "altruism".
 
-#anyhoot <2>
+#anyhoot \<2\>
 
-Remember how the numbers are supposed to be non-sequential? Well, look over there (<-), there's a reminder.
+Remember how the numbers are supposed to be non-sequential? Well, look over there (\<-), there's a reminder.
 
-This month, for me, is about giving back to your community with appreciation and support. You've made mistakes, you've failed, and - at times - you took it out on other people. That's chaos. Get back to order, and apologize. Everything comes back to you in the end, whether sooner or later. That's karma. 
-Just think of Tardigrades and you'll find the question. You already know the answer after all. (6x7=42) That's simple. But why? A.I. 
+This month, for me, is about giving back to your community with appreciation and support. You've made mistakes, you've failed, and - at times - you took it out on other people. That's chaos. Get back to order, and apologize. Everything comes back to you in the end, whether sooner or later. That's karma. Just think of Tardigrades and you'll find the question. You already know the answer after all. (6x7=42) That's simple. But why? A.I.
 
-Let's move on...
-hint for the above: machine learning...
- So, karma is a cycle.
- 
- Yes.
- and, everything comes around in the end?
- Yupp.
- that's gravity
- More or less..
- I'm lost
- That's okay, it's all a pedagogy.
- okay..
- Start at the beginning and work your way to now.
- 
- It's the start of February, and you began by prioritizing rest. Good job! (thanks). 
+Let's move on... hint for the above: machine learning... So, karma is a cycle.
+
+Yes. and, everything comes around in the end? Yupp. that's gravity More or less.. I'm lost That's okay, it's all a pedagogy. okay.. Start at the beginning and work your way to now.
+
+It's the start of February, and you began by prioritizing rest. Good job! (thanks).

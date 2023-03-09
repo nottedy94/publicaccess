@@ -13,17 +13,17 @@
   note = {R package version 0.1.1},
   url = {https://github.com/crsh/papaja},
 }
-@Manual{R-tinylabels,
-  title = {{tinylabels}: Lightweight Variable Labels},
-  author = {Marius Barth},
-  year = {2022},
-  note = {R package version 0.2.3},
-  url = {https://cran.r-project.org/package=tinylabels},
-}
 @Manual{R-sparklyr,
   title = {sparklyr: R Interface to Apache Spark},
   author = {Javier Luraschi and Kevin Kuo and Kevin Ushey and JJ Allaire and Hossein Falaki and Lu Wang and Andy Zhang and Yitao Li and Edgar Ruiz and {The Apache Software Foundation}},
   year = {2023},
   note = {R package version 1.8.0},
   url = {https://CRAN.R-project.org/package=sparklyr},
+}
+@Manual{R-tinylabels,
+  title = {{tinylabels}: Lightweight Variable Labels},
+  author = {Marius Barth},
+  year = {2022},
+  note = {R package version 0.2.3},
+  url = {https://cran.r-project.org/package=tinylabels},
 }
